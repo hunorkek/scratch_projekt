@@ -7,3 +7,6 @@ Győzelmi feltétel: Eljutni a zöld színnel jelölt kijárathoz.
 
 Képrenyőkép a játékról:
 ![image](https://github.com/user-attachments/assets/3a69ea1e-5ee6-4fbf-bdc7-77f889d193f8)
+
+
+Link a játékhoz: https://scratch.mit.edu/projects/1149094591/
